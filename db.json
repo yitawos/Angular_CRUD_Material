@@ -1,0 +1,34 @@
+{
+  "product": [
+    {
+      "product": "abebe",
+      "catagory": "abebe",
+      "select": "one",
+      "date": "2023-02-23T21:00:00.000Z",
+      "radio": "banana",
+      "price": 3,
+      "comment": "as",
+      "id": 4
+    },
+    {
+      "product": "yite",
+      "catagory": "yite",
+      "select": "one",
+      "date": "2023-02-24T21:00:00.000Z",
+      "radio": "orange",
+      "price": 50,
+      "comment": "mite",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
